@@ -1,0 +1,69 @@
+
+main
+{	width: 750px;
+	height: 750px;
+	border:  5px solid black;
+	background-color: mediumaquamarine;
+}
+#main
+{
+	width: 740px;
+	height: 380px;
+	border: 5px solid black;
+}
+header
+{
+	border: 5px solid black;
+	width: 740px;
+	height: 240px;
+	background-color: lightslategray;
+}
+.banner
+{
+	width: 470px;
+	height: 230px;
+	margin: 5px;
+	background-color: coral;
+	float: left;
+}
+.logo
+{
+	width: 250px;
+	height: 230px;
+	margin: 5px;
+	background-color: floralwhite;
+	float: left;
+}
+nav
+{
+	border: 5px solid black;
+	width: 740px;
+	height: 50px;
+	background-color: greenyellow;
+
+}
+.artic
+{
+	width: 420px;
+	height: 350px;
+	margin: 10px;
+	background-color: orangered;
+	float: left;
+}
+.asid
+{
+	width: 260px;
+	height: 350px;
+	margin: 10px;
+	background-color: bisque;
+	float: left;
+}
+
+footer
+{
+	border: 5px solid black;
+	border-bottom: 10px solid black;
+	background-color: blueviolet;
+	width: 740px;
+	height: 50px;
+}
